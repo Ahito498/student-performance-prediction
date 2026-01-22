@@ -44,18 +44,6 @@ This project implements a **Smart Student Performance Prediction System** that l
 
 The project demonstrates expertise in data preprocessing, feature engineering, hyperparameter tuning, and handling class imbalance using advanced techniques like SMOTE.
 
----
-
-## 👥 Team Members
-
-| Name | Student ID |
-|------|-----------|
-| Ahmed Nasr | 202200294 |
-| Ahmed Salah | 202200212 |
-| Ahmed Fares | 202200977 |
-| Hassan Ahmed | 202202121 |
-
----
 
 ## ✨ Features
 
@@ -353,16 +341,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 📧 Contact
-
-For questions, suggestions, or collaborations, please contact:
-
-- **Ahmed Nasr** - [GitHub](https://github.com/ahmednasr)
-- **Ahmed Salah** - [GitHub](https://github.com/ahmedsalah)
-- **Ahmed Fares** - [GitHub](https://github.com/ahmedfares)
-- **Hassan Ahmed** - [GitHub](https://github.com/hassanahmed)
 
 ---
 
