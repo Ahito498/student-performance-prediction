@@ -23,6 +23,7 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb_checkpoints/
+Machine Learning Term Project.pdf
 
 # Virtual Environment
 venv/
